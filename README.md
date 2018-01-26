@@ -1,0 +1,2 @@
+# rush
+lerning java
